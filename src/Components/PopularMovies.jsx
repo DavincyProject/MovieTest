@@ -17,6 +17,9 @@ const PopularMovies = () => {
       <div className="d-flex justify-content-between align-items-center mx-4 mb-4">
         {totalResults && (
           <>
+            <h1 className="mb-0 text-light fs-2 ">
+              Popular Movie
+            </h1>
             <Link
               className="text-decoration-none text-danger fw-semibold cursor-pointer"
               onClick={handleSeeAllClick}
