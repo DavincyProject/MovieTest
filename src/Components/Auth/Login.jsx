@@ -35,7 +35,6 @@ const Login = () => {
           <div className="row gx-lg-5 align-items-center">
             <div className="col-lg-6 mb-2 mb-lg-0">
               <h1 className="fs-1 my-4 display-3 fw-bold ls-tight">
-                Welcome Back! - Staging Ver 1.0 <br />
                 <span className="text-danger fs-4">
                   Log in to Access our Movie Collection
                 </span>
